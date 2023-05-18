@@ -39,9 +39,9 @@ Really easy to edit, just double-click on text and enter any type you'd like.
 <img src="https://i.imgur.com/VXDaiGf.png" height="80%" width="80%" alt="flyercreate"/>
 <br />
 <br />
-It's just that easy. You can also use your own images. I added my own images to the flyer on the right.
+It's just that easy. You can also use your own images. I added my own images to the flyer on the right and also changed the table cell colors.
 <br/>
-<img src="https://i.imgur.com/cxX7YD4.png" height="80%" width="80%" alt="flyercreate"/>
+<img src="https://i.imgur.com/UnO9Tge.png" height="80%" width="80%" alt="flyercreate"/>
 <br />
 <br />
 That's it! We are finished. I hope you enjoyed this demonstration.
