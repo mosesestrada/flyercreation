@@ -47,7 +47,7 @@ It's just that easy. You can also use your own images. I added my own images to 
 That's it! We are finished. I hope you enjoyed this demonstration.
 
  <br/>
-<img src="https://i.imgur.com/Faj3DUy.jpg" height="80%" width="80%" alt="flyercreate"/>
+<img src="https://i.imgur.com/0cS2D9N.jpg" height="80%" width="80%" alt="flyercreate"/>
 <br />
 <br />
 
