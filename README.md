@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/GZ1R9x6.jpg" height="80%" width="80%" alt="flyercreate"/>
+ <img src="https://i.imgur.com/R2aGPAJ.jpg" height="80%" width="80%" alt="flyercreate"/>
 </p>
 
 <h1>Create a flyer in Microsoft Word</h1>
